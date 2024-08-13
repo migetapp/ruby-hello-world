@@ -1,0 +1,2 @@
+class MigetController < ApplicationController
+end
