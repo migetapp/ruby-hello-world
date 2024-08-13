@@ -1,4 +1,4 @@
-# node-js-hello-world
+# ruby-hello-world
 
 A barebones Ruby app using [Rails 7](https://rubyonrails.org/).
 
