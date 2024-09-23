@@ -1,0 +1,5 @@
+[_]
+schema-version = "0.2"
+
+[[io.buildpacks.post.group]]
+uri = "docker://miget/rails-chmod-buildpack"
